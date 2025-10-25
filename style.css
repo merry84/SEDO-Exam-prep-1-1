@@ -7,7 +7,7 @@ body {
   align-items: center;
   background: #f0f0f0;
 }
-
+//2 change
 .calculator {
   background: white;
   padding: 1em;
@@ -15,7 +15,7 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   text-align: center;
 }
-
+//3 change
 .calculator input {
   width: 4em;
   margin: 0.5em;
@@ -29,6 +29,7 @@ body {
 
 #result {
   margin-top: 1em;
+//1 change
   font-size: 1.2em;
 }
 
